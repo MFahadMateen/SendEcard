@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">SendEcard</string>
+    <string name="send_e_cart">Send eCart</string>
+    <string name="search">Search</string>
+    <string name="image">Image</string>
+    <string name="shops_restaurants_items_etc">Shops, Restaurants, Items etc…</string>
+    <string name="scan_ecart_qr_code">Scan eCart QR Code</string>
+    <string name="whatever_you_do_work_heartly_as_for_the_lord_and_not_for_men">\"Whatever you do, work heartly, as for the Lord and not for men\"</string>
+    <string name="colossians_3_23">- Colossians 3:23</string>
+    <string name="sign_un_as_seller"><u>Sign un as seller</u></string>
+    <string name="back">Back</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="not_yet_a_seller">Not yet a seller?</string>
+    <string name="sign_up"><u>Sign up</u></string>
+    <string name="sign_up_">Sign up</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="type_the_email_associated_to_your_account">Type the email associated to your account</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="shop_name">Shop Name</string>
+    <string name="i_accept_the_send_ecart_terms_of_service_and_privacy_policy">I accept the Send eCart <u>Terms of Service</u> and <u>Privacy Policy</u></string>
+
+    <string-array name="country_list">
+        <item>Select Country</item>
+        <item>Pakistan</item>
+        <item>Philippines</item>
+    </string-array>
+    <string-array name="industry_list">
+        <item>Select Industry</item>
+        <item>Shoe Store</item>
+        <item>Tech Store</item>
+        <item>E-commerce Store</item>
+        <item>Jewelry Shop</item>
+        <item>Restaurant</item>
+    </string-array>
+</resources>
